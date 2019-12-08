@@ -1,0 +1,43 @@
+.mainBlock{
+  width: 95%;
+  margin: 0 auto;
+  border: 2px solid black;
+  display: flex;
+}
+
+.mainBlock__firstDiv{
+
+}
+
+.mainBlock__firstDiv__button {
+  height: 65px;
+  border: 1px solid black;
+  background-color: rgba(15, 228, 228, 0.849);
+  cursor: pointer;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainBlock__firstDiv__button__active{
+  border-right: 1px solid rgb(184, 10, 184);
+  background-color: rgb(184, 10, 184);
+}
+
+.mainBlock__secondDiv__contentDiv {
+  background-color: rgb(184, 10, 184);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  height: 469px;
+}
+
+.mainBlock__secondDiv{
+  width: 100%;
+  height: 100%;
+}
+
+.mainBlock__secondDiv__contentDiv__active{
+  display: flex;
+}
