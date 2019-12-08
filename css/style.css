@@ -10,6 +10,13 @@
  display:flex;
  justify-content: center;
 }
+.header__logo{
+  width: 100px;
+  height: 100px;
+}
+.header__logo img{
+  width: 100%;
+}
 
 
 .mainBlock__firstDiv__button {
