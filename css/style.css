@@ -6,7 +6,10 @@
   max-width: 1000px;
   position: relative;
 }
-
+.header{
+ display:flex;
+ justify-content: center;
+}
 
 
 .mainBlock__firstDiv__button {
