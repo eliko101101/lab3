@@ -26,8 +26,8 @@
   cursor: pointer;
   width: 230px;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: center ;
+  justify-content: left;
 }
 
 .mainBlock__firstDiv__button__active{
@@ -58,7 +58,7 @@
   position: absolute;
   top: -30px;
   right: -20px;
-  background-color: grey;
+  background-color:lightpink;
   cursor: pointer; 
 }
 
