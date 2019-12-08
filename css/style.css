@@ -3,6 +3,7 @@
   margin: 0 auto;
   border: 2px solid black;
   display: flex;
+  max-width: 1000px;
 }
 
 .mainBlock__firstDiv{
