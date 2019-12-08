@@ -31,12 +31,12 @@
 }
 
 .mainBlock__firstDiv__button__active{
-  border-right: 1px solid rgb(184, 10, 184);
-  background-color: rgb(184, 10, 184);
+  border-right: 1px solid rgb(196, 118, 196);
+  background-color:  rgb(196, 118, 196));
 }
 
 .mainBlock__secondDiv__contentDiv {
-  background-color: rgb(184, 10, 184);
+  background-color: rgb(196, 118, 196);
   display: none;
   align-items: center;
   justify-content: center;
